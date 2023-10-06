@@ -1,13 +1,8 @@
 {
-  "name": "revo-calendar",
-  "version": "3.2.3",
-  "description": "React Event Calendar Component",
-  "author": {
-    "name": "Gabriel Molter",
-    "url": "https://gabrielmolter.com/"
-  },
+  "name": "gymkhana-revo-calendar",
+  "version": "1.0",
+  "description": "Calendar for IITK Gymkhana",
   "license": "MIT",
-  "repository": "gjmolter/revo-calendar",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "source": "src/index.tsx",
@@ -16,15 +11,6 @@
     "test-coverage": "jest --coverage",
     "build": "rollup -c"
   },
-  "homepage": "https://gjmolter.github.io/revo-calendar/",
-  "keywords": [
-    "event",
-    "calendar",
-    "modern",
-    "responsive",
-    "react",
-    "customizable"
-  ],
   "dependencies": {
     "@babel/runtime": "^7.14.0",
     "styled-components": "^5.3.0"
